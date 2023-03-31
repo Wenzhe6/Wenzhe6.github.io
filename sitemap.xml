@@ -81,13 +81,6 @@
   </url>
   
   <url>
-    <loc>https://wenzhe6.github.io/tags/Node-JS/</loc>
-    <lastmod>2023-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wenzhe6.github.io/tags/Vue2/</loc>
     <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -103,6 +96,13 @@
   
   <url>
     <loc>https://wenzhe6.github.io/tags/Vue3/</loc>
+    <lastmod>2023-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenzhe6.github.io/tags/Node-JS/</loc>
     <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -132,13 +132,6 @@
   </url>
   
   <url>
-    <loc>https://wenzhe6.github.io/categories/Node-JS/</loc>
-    <lastmod>2023-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wenzhe6.github.io/categories/Vue2/</loc>
     <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -154,6 +147,13 @@
   
   <url>
     <loc>https://wenzhe6.github.io/categories/Vue3/</loc>
+    <lastmod>2023-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenzhe6.github.io/categories/Node-JS/</loc>
     <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
