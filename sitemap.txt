@@ -1,10 +1,10 @@
-https://wenzhe6.github.io/2022/06/17/Vue3/
 https://wenzhe6.github.io/2020/07/17/WebPack/
+https://wenzhe6.github.io/2022/06/17/Vue3/
+https://wenzhe6.github.io/2020/12/17/Vue2/
+https://wenzhe6.github.io/2022/08/21/TypeScript/
+https://wenzhe6.github.io/2022/07/27/NodeJS/
 https://wenzhe6.github.io/2022/06/21/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/
 https://wenzhe6.github.io/2020/12/17/JavaScript/
-https://wenzhe6.github.io/2022/07/27/NodeJS/
-https://wenzhe6.github.io/2022/08/21/TypeScript/
-https://wenzhe6.github.io/2020/12/17/Vue2/
 https://wenzhe6.github.io/
 https://wenzhe6.github.io/tags/JavaScript/
 https://wenzhe6.github.io/tags/Node-JS/
